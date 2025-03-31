@@ -1,4 +1,4 @@
-# Searching the SRA database using Amazon Athena
+# Searching the SRA database using Amazon Athena test
 
 1) Navigate to the Amazon Athena homepage. Click **Data sources and catalogs**.
 
